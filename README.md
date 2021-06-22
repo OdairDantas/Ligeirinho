@@ -1,4 +1,4 @@
-<h1 align="center"> Implementando cache de memória no ASP.NET Core </h1>
+<h1 align="center"> Cache de memória no ASP.NET Core </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/36374995/122860951-06553500-d2f5-11eb-960f-9d5fb94a4376.jpg" width="600">
