@@ -7,8 +7,8 @@
 
 ## Como utilizar estrategia de cache nativa do.Net Core ? 
 
-A implementação e muito simples, observe na classe OAuthService,
-armazenamos o token por 30 segundos em memoria, durante esse período o token de resposta será sempre o mesmo. 
+A implementação e muito simples,basta utilizar a interface IMemoryCache, observe na classe OAuthService,
+armazenamos o token por 30 segundos em memoria, durante esse período o token de resposta será sempre o mesmo pós esse período o cache será destruído. 
 
 
 
